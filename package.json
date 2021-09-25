@@ -1,0 +1,23 @@
+{
+  "name": "draflorencialamela",
+  "version": "1.0.0",
+  "description": "Dra Florencia Lamela's website",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohillion/DraFlorenciaLamela.git"
+  },
+  "author": "Dentactical",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohillion/DraFlorenciaLamela/issues"
+  },
+  "homepage": "https://github.com/rohillion/DraFlorenciaLamela#readme"
+}
